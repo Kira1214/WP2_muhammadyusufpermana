@@ -1,5 +1,6 @@
 <!-- Begin Page Content -->
 <div class="container-fluid">
+
 <!-- row ux-->
 <div class="row">
     <div class="col-xl-3 col-md-6 mb-4">
@@ -157,4 +158,4 @@
             </div>
             <!-- /.container-fluid -->
         </div>
-         <!-- End of Main Content -->
+        <!-- End of Main Content -->
